@@ -9,9 +9,11 @@ public class IntersectionScript : MonoBehaviour
     private GameObject _highlight;
 
     [SerializeField]
-    private GameObject _blockade;
+    private GameObject[] _blockades;
 
     private BoxCollider2D _collider;
+
+    private float delayTime = 10f;
 
     // Start is called before the first frame update
     void Start()
@@ -36,14 +38,51 @@ public class IntersectionScript : MonoBehaviour
 
     void OnMouseDown()
     {
-        if (_collider.isTrigger == false)
+        Click();
+    }
+
+    void Click()
+    {
+        if (GameManager.ActionPoints >= 1)
         {
-            _collider.isTrigger = true;
+            if (_collider.isTrigger == false)
+            {
+                _collider.isTrigger = true;
+                _blockades[0].SetActive(false);
+                _blockades[1].SetActive(false);
+                _blockades[2].SetActive(false);
+                _blockades[3].SetActive(false);
+            }
+            else
+            {
+                _collider.isTrigger = false;
+                _blockades[0].SetActive(true);
+                _blockades[1].SetActive(true);
+                _blockades[2].SetActive(true);
+                _blockades[3].SetActive(true);
+            }
+            var graphToScan = AstarPath.active.data.gridGraph;
+            AstarPath.active.Scan(graphToScan);
+            GameManager.ActionPoints--;
+            print(GameManager.ActionPoints);
+            Test();
         }
-        else
-        {
-            _collider.isTrigger = false;
-        }
+    }
+
+    private void Test()
+    {
+        StartCoroutine(WaitForFunction());
+    }
+
+    IEnumerator WaitForFunction()
+    {
+        yield return new WaitForSeconds(delayTime);
+        print("CLICK DONE");
+        _collider.isTrigger = true;
+        _blockades[0].SetActive(false);
+        _blockades[1].SetActive(false);
+        _blockades[2].SetActive(false);
+        _blockades[3].SetActive(false);
         var graphToScan = AstarPath.active.data.gridGraph;
         AstarPath.active.Scan(graphToScan);
     }

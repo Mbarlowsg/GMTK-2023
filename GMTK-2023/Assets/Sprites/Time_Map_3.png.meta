@@ -1,0 +1,2393 @@
+fileFormatVersion: 2
+guid: eed588efd24b2b64595f31a49d528f2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Time_Map_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3778
+        width: 382
+        height: 6910
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6375799bf870c43a9293e9b8d50eea
+      internalID: 585431921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 9707
+        width: 356
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b84fc3bc29b74a93831903e415ae5
+      internalID: -656076896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9707
+        width: 357
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7833d2862c054f87774766c7a7aa8
+      internalID: -1486744185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 9707
+        width: 358
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e92602371534c47b26a87e7a1c928b
+      internalID: -471345525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_4
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 10533
+        width: 206
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5787407d6f9668d4b98de045e30946e2
+      internalID: 182063870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_5
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 10533
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b06a6e70c8524c964271f4cc74253
+      internalID: 776914221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_6
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 10533
+        width: 206
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80826c43b085f8442ae209b3b6ad5cac
+      internalID: 926122506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_7
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 10382
+        width: 206
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448034bb3b0f5e74f87903381a1359f9
+      internalID: 1793240229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_8
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 10382
+        width: 1590
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cfdf558079f4b40b955db2182dd39e
+      internalID: -229959740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_main
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3789
+        width: 2855
+        height: 6899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb34b3a1919df841aff2c246bb9d7ca
+      internalID: -313284249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sidewalk
+      rect:
+        serializedVersion: 2
+        x: 13423
+        y: 3789
+        width: 677
+        height: 6878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633cc46e92d5171418e7ccdf9e8da2ab
+      internalID: -1168441781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Street_intersection
+      rect:
+        serializedVersion: 2
+        x: 10455
+        y: 3780
+        width: 2862
+        height: 6908
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c9f201dc5261143aff3953189b5bbd
+      internalID: 74454893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_12
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 10306
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58101866cdccbd14f891c825b79cc32b
+      internalID: 1987023109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_13
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 10306
+        width: 205
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf637bdb9b9bea84c96991819dd6f963
+      internalID: -289125808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_14
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 10306
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2435c558b22024fa5543eedf307852
+      internalID: 975666064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_15
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 10003
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4d71b62941b4459a9b9fb5c7de51c
+      internalID: 1920677996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_16
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 10003
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a97c345023ca494ca72b61a46bcc4d2
+      internalID: -1260007504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_17
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 10003
+        width: 205
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6189bae403ffae4486cd60a9a5e1022
+      internalID: 2146158603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_18
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 10003
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f07f0e2863bd4bb0e6387f0cd03a3
+      internalID: -1487550573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_19
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 10003
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ae3d16d3344149a2d5918ec512450
+      internalID: -19064409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_20
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 10003
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd4c687bb6b38442b8c93da7729bd77
+      internalID: 968960302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_21
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 10079
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e3ff23ff437441901c8329306e2a4
+      internalID: -1620725711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_22
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 10079
+        width: 205
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b350fa7a10434a346a2f848739602890
+      internalID: -842233773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_23
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 10079
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a2f4af4fd11749b24d80ff63269f0
+      internalID: 1368415833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_24
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 9852
+        width: 206
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebd52377603e6448004aa57eb8a28e
+      internalID: -1851742972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_25
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 9852
+        width: 205
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375bd07bb588f245b46ca1ec3975b4b
+      internalID: 983554650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_26
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 9852
+        width: 206
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5404735783512624197c7c1410c4ced1
+      internalID: 1186370405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_27
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 9555
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c99a96a69b2ba4b94f1833c9fc68d9
+      internalID: 1359616876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_28
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 9555
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d376aafe7bf4949802f61f264322b6
+      internalID: 1947875758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_29
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 9555
+        width: 205
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b8597367d03e448060cfd9138f953
+      internalID: 1198380772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_30
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 9555
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0865279f8c92112498138240ee5de3b3
+      internalID: 260414915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_31
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 9555
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c6c5237508fc41b84fac2d05a6aa8
+      internalID: -814425777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_32
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 9555
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1736672169af864b8051b8fb2903144
+      internalID: -1026166810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_33
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 9631
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329cffebf9f6207448407091fb9af61b
+      internalID: 298362867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_34
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 9631
+        width: 205
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad222b52c9acc48acfac9d90d922a8
+      internalID: -724843339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_35
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 9631
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa134e7cc2ebc5f43b55aa89ed434c12
+      internalID: 307975086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 8619
+        width: 356
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec867ad3df30e469c66051a79e9fc3
+      internalID: -26327314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_37
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 8619
+        width: 357
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d1b7d265dd931469943f2b648e3d3c
+      internalID: -1997532629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_38
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 8619
+        width: 358
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d98b28c3fc14b49926a603fae1c918
+      internalID: -757292557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_39
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 9404
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3ba95349548b4a929ac3eabb6ee8d
+      internalID: 1988180857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_40
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 9404
+        width: 205
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f6ba793621c043a30c118632b5140
+      internalID: -1339492176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_41
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 9404
+        width: 206
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82855f61cc7be5a46b259d73a12f1844
+      internalID: 2051313216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_42
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 9183
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489574893575fb4f9f37f60d85c1465
+      internalID: 1201141421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_43
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 9183
+        width: 200
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac82ae761b288f47ae02955ec4b360b
+      internalID: -84947101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_44
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 9183
+        width: 205
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d239e2a8cd462b46991723b62761cf4
+      internalID: -1536435832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_45
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 9183
+        width: 200
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a824357d7a69ca4aa0231354cd3f73c
+      internalID: -1182925449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_46
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 9183
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93243e5e561cf4429b7e1cdb6f00bf2
+      internalID: 1392112733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_47
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 9183
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f593f694a22ba97488a2f2ab1e29be07
+      internalID: -924736984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_48
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 8770
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c0808aa9bd00409e0d01b6562d275
+      internalID: -1364860740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_49
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 8770
+        width: 200
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abb8e6bee4cbf94eacebd14859aef9f
+      internalID: -1940683916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_50
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 8770
+        width: 205
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58508e22fd3bd4e9398b3f4de0e8c2
+      internalID: -41256160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_51
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 8770
+        width: 200
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5f5ad84eb56b4f9257a3fb3d89894
+      internalID: 117387038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_52
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 8770
+        width: 206
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1910a813cb04b45b4cd11b27fdf671
+      internalID: -478588869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_53
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 8770
+        width: 206
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf341e86b96b4244beca2a212cf35c4
+      internalID: 1479562549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 7531
+        width: 356
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f3550307a36d84c9913c1618063a45
+      internalID: 1664482059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_55
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7531
+        width: 357
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ed25f3eb0ccd47a3da536b142f9f9
+      internalID: -1701284402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_56
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 7531
+        width: 358
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd7f0a8ca55054db0e9a96d5081389
+      internalID: -1504864191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_57
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 8391
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a724a8a7fd387469d586e2f6fe4817
+      internalID: 1791724958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_58
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 8391
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0152b70a2c55f42a79001e6f7f8d45
+      internalID: -894278306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_59
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 8391
+        width: 205
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9e8322f226be84a95e861fa462882b
+      internalID: 1051819204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_60
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 8391
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b7a3a4339bb5419eb9b37db9cebda
+      internalID: 993832098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_61
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 8391
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f6e774ec8860745bdac4429665924b
+      internalID: -1701460845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_62
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 8391
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33beab668d4d8714588702f957cbd31b
+      internalID: 2052510395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_63
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 7978
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597787e33df20c418cd07bd55046b5a
+      internalID: -1912058945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_64
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 7978
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe1f59a0f6eb945b4212c0b81ed465
+      internalID: 158171670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_65
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 7978
+        width: 205
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6491ed9332227b4b9599b841d76ccde
+      internalID: 285785882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_66
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 7978
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba26ee5e222bbf548850fb694a7b63ef
+      internalID: 2081278473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_67
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 7978
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe9e00b92e86941842255062302cc8
+      internalID: 1478508026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_68
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 7978
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf211d91366d9b240a3df1eb0e60d880
+      internalID: 1668297852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_69
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 7606
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ff65d934750c4d90c2f30927f7770
+      internalID: 153413013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_70
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 7606
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bddd262cb94f4faaed8ddd82cfef1
+      internalID: -1575304473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_71
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 7606
+        width: 205
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e698566e0996b40b299eeb24e00788
+      internalID: -1138989930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_72
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 7606
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb9a11d1c091494987d525961431c97
+      internalID: 645048131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_73
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 7606
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7fae867a3fe949a392927e6cd1eae
+      internalID: -294865182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_74
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 7606
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2be363a32a374dbfe6d1d347b26b5
+      internalID: -634286714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_75
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 7193
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a878fece1d5d419d9f90bbf97131a
+      internalID: -343888867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_76
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 7193
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232770daffcf03546a661378ef95931a
+      internalID: 632749717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_77
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 7193
+        width: 205
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da7d641b5391a489769094468ad0b8
+      internalID: -1969040895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_78
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 7193
+        width: 200
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5dad04dc603548bc1c43ef8016ab1
+      internalID: -1608401758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_79
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 7193
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa1397a775bde4a916c935e5fa1715
+      internalID: 808447226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_80
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 7193
+        width: 206
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca10cabc438214cb55b6aa1796c134
+      internalID: -1315718253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 6628
+        width: 276
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88974657734d37e4f87b5e25b0922b8d
+      internalID: 725127335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_82
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 6628
+        width: 282
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d7281943eed14cb0934f9cbe27484
+      internalID: -1548953064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_83
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 6704
+        width: 206
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5005fac2ab8946a724c07740cffed
+      internalID: 2053608330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_84
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 6666
+        width: 166
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205cefbbb628a94798b445b33944b2d
+      internalID: 2135738991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_85
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 6739
+        width: 241
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2fcc4e89c94304c95cb982eeea67ce
+      internalID: -573028111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_86
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 6814
+        width: 206
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86e8c386a01ab4e9cc7bc1caf5ecf2
+      internalID: -1831352188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_87
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6814
+        width: 200
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778cd5d72fa5164a803d3a86c0eb7ba
+      internalID: -1778769561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_88
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 6814
+        width: 205
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b34313841ed9d24cb5579b2dee685d3
+      internalID: 1343577044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_89
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 6814
+        width: 200
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c52e103f0a9cb4c998d9a4f55fcd93
+      internalID: 1920655544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_90
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 6814
+        width: 206
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca0fb0014d78b142b6b1f9e44c201b1
+      internalID: -621780787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_91
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 6814
+        width: 206
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7032dccbce2274fac41a1b5a7939f8
+      internalID: -318414263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_92
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 5919
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6471a9fec4847504c9f8e4d3dda7cd5d
+      internalID: -278141357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_93
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 6105
+        width: 461
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d736bc8e8b004b9e99985fc1f31e1
+      internalID: 421245284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_94
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 4232
+        width: 2082
+        height: 2079
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df870227a26f3047b1b07ea247c6e9f
+      internalID: 1113728707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_95
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 4232
+        width: 2079
+        height: 2079
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c114be87d3154c8ed6682dfe8b79b
+      internalID: -458512552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_96
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2992
+        width: 619
+        height: 2720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87eb4d3841254e47b5ac3223b747293
+      internalID: 1269750891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_97
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 5692
+        width: 203
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be355aafb337b4f9db3afc63f0e5d3
+      internalID: -1585401410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_98
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 5692
+        width: 503
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2bc69d653f154a98067852a7598fe
+      internalID: 884013895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_99
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 5168
+        width: 503
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442b1341a4613a459e2a4343e9948f2
+      internalID: 1129240861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_100
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 4679
+        width: 1439
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b612d83a395594c8f39f42c2801518
+      internalID: -1588473837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5184
+        height: 4135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eee1faae8f07c4ba0fa044a5fa80c1
+      internalID: 215659541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_Map_3_102
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 0
+        width: 2079
+        height: 4135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc407d2525febe43b613c04eb0d0214
+      internalID: -1778950226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sidewalk: -1168441781
+      Street_intersection: 74454893
+      Street_main: -313284249
+      Time_Map_3_0: 585431921
+      Time_Map_3_1: -656076896
+      Time_Map_3_100: -1588473837
+      Time_Map_3_101: 215659541
+      Time_Map_3_102: -1778950226
+      Time_Map_3_12: 1987023109
+      Time_Map_3_13: -289125808
+      Time_Map_3_14: 975666064
+      Time_Map_3_15: 1920677996
+      Time_Map_3_16: -1260007504
+      Time_Map_3_17: 2146158603
+      Time_Map_3_18: -1487550573
+      Time_Map_3_19: -19064409
+      Time_Map_3_2: -1486744185
+      Time_Map_3_20: 968960302
+      Time_Map_3_21: -1620725711
+      Time_Map_3_22: -842233773
+      Time_Map_3_23: 1368415833
+      Time_Map_3_24: -1851742972
+      Time_Map_3_25: 983554650
+      Time_Map_3_26: 1186370405
+      Time_Map_3_27: 1359616876
+      Time_Map_3_28: 1947875758
+      Time_Map_3_29: 1198380772
+      Time_Map_3_3: -471345525
+      Time_Map_3_30: 260414915
+      Time_Map_3_31: -814425777
+      Time_Map_3_32: -1026166810
+      Time_Map_3_33: 298362867
+      Time_Map_3_34: -724843339
+      Time_Map_3_35: 307975086
+      Time_Map_3_36: -26327314
+      Time_Map_3_37: -1997532629
+      Time_Map_3_38: -757292557
+      Time_Map_3_39: 1988180857
+      Time_Map_3_4: 182063870
+      Time_Map_3_40: -1339492176
+      Time_Map_3_41: 2051313216
+      Time_Map_3_42: 1201141421
+      Time_Map_3_43: -84947101
+      Time_Map_3_44: -1536435832
+      Time_Map_3_45: -1182925449
+      Time_Map_3_46: 1392112733
+      Time_Map_3_47: -924736984
+      Time_Map_3_48: -1364860740
+      Time_Map_3_49: -1940683916
+      Time_Map_3_5: 776914221
+      Time_Map_3_50: -41256160
+      Time_Map_3_51: 117387038
+      Time_Map_3_52: -478588869
+      Time_Map_3_53: 1479562549
+      Time_Map_3_54: 1664482059
+      Time_Map_3_55: -1701284402
+      Time_Map_3_56: -1504864191
+      Time_Map_3_57: 1791724958
+      Time_Map_3_58: -894278306
+      Time_Map_3_59: 1051819204
+      Time_Map_3_6: 926122506
+      Time_Map_3_60: 993832098
+      Time_Map_3_61: -1701460845
+      Time_Map_3_62: 2052510395
+      Time_Map_3_63: -1912058945
+      Time_Map_3_64: 158171670
+      Time_Map_3_65: 285785882
+      Time_Map_3_66: 2081278473
+      Time_Map_3_67: 1478508026
+      Time_Map_3_68: 1668297852
+      Time_Map_3_69: 153413013
+      Time_Map_3_7: 1793240229
+      Time_Map_3_70: -1575304473
+      Time_Map_3_71: -1138989930
+      Time_Map_3_72: 645048131
+      Time_Map_3_73: -294865182
+      Time_Map_3_74: -634286714
+      Time_Map_3_75: -343888867
+      Time_Map_3_76: 632749717
+      Time_Map_3_77: -1969040895
+      Time_Map_3_78: -1608401758
+      Time_Map_3_79: 808447226
+      Time_Map_3_8: -229959740
+      Time_Map_3_80: -1315718253
+      Time_Map_3_81: 725127335
+      Time_Map_3_82: -1548953064
+      Time_Map_3_83: 2053608330
+      Time_Map_3_84: 2135738991
+      Time_Map_3_85: -573028111
+      Time_Map_3_86: -1831352188
+      Time_Map_3_87: -1778769561
+      Time_Map_3_88: 1343577044
+      Time_Map_3_89: 1920655544
+      Time_Map_3_90: -621780787
+      Time_Map_3_91: -318414263
+      Time_Map_3_92: -278141357
+      Time_Map_3_93: 421245284
+      Time_Map_3_94: 1113728707
+      Time_Map_3_95: -458512552
+      Time_Map_3_96: 1269750891
+      Time_Map_3_97: -1585401410
+      Time_Map_3_98: 884013895
+      Time_Map_3_99: 1129240861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,9 +5,12 @@ using Pathfinding;
 
 public class RecalculateGraph : MonoBehaviour
 {
+    // public AIPath path;
+
     // Start is called before the first frame update
     void Start()
     {
+        // path.maxAcceleration = -2f;
         // InvokeRepeating("CheckPath", 0f, 3f);
     }
 
