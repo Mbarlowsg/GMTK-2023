@@ -5,15 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class FinishScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start() { }
-
-    // Update is called once per frame
-    void Update() { }
+    [SerializeField]
+    private GameObject _loseScreen,
+        _gameScreen;
 
     void OnTriggerEnter2D()
     {
-        GameObject.Find("Lose Screen").SetActive(true);
-        GameObject.Find("Game Screen").SetActive(false);
+        _loseScreen.SetActive(true);
+        _gameScreen.SetActive(false);
     }
 }
